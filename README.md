@@ -1,6 +1,7 @@
 # Real-time Semantic Segmentation for Mapillary Vistas Dataset
 
 ## White Paper
+[PDF Copy](https://github.com/ComputerFish/Hybrid-Attention-Segformer/blob/088abc1ac44fd6ae115ed7680561ee7cea801010/white%20paper/Hybrid-%20SegFormer.pdf)
 
 The paper introduces a hybrid attention module that fuses local and global token dependencies.
 
