@@ -1,5 +1,9 @@
 # Real-time Semantic Segmentation for Mapillary Vistas Dataset
 
+## White Paper
+
+The paper introduces a hybrid attention module that fuses local and global token dependencies.
+
 ## Project Structure
 
 ```bash
